@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "name": "Red Gerbera",
+            "maintainer": "Red Gerbera",
+            "websiteURL": "http://redgerbera.com/",
+            "email": "info@RedGerbera.com",
+            "help": {
+                "online": "http://redgerbera.com/"
+            },
+            "platforms": [
+                {
+                    "name": "Gerbera Boards",
+                    "architecture": "avr",
+                    "version": "0.1.0",
+                    "category": "Gerbera",
+                    "url": "https://github.com/MechE99/gerberaboards/raw/master/boards/RedGerbera-0.1.0.tar.bz2",
+                    "archiveFileName": "RedGerbera-0.1.0.tar.bz2",
+                    "checksum": "SHA-256:0C88F57F0ABA4CADA0CF2D9490CCF3A7A1100488D76A458AB9749BAC7720AB11",
+                    "size": "644815",
+                    "help": {
+                        "online": "http://redgerbera.com/about/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Gerbera"
+                        }
+                    ],
+                    "toolsDependencies": []
+                }
+            ],
+            "tools": []
+		}
+	]
+}
